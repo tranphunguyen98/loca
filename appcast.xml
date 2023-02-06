@@ -3,10 +3,11 @@
     <channel>
         <title>LOCA App</title>
         <item>
-            <title>Version 2.0 (2 bugs fixed; 3 new features)</title>
-            <link>https://myproductwebsite.com</link>
-            <sparkle:version>2.0</sparkle:version>
-            <sparkle:minimumSystemVersion>1.2.0</sparkle:minimumSystemVersion>
+            <title>Version 1.2.1</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Sat, 04 Feb 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.vn.loca" sparkle:version="1.2.1" sparkle:os="android" />
+            <sparkle:minimumSystemVersion>1.2.1</sparkle:minimumSystemVersion>
         </item>
     </channel>
 </rss>
